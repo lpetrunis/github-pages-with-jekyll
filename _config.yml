@@ -1,8 +1,6 @@
 title: Lara's GitHub Website
 author: Lara Petrunis
 email: larapetrunis916@gmail.com
-description: > 
-Hi! My name is Lara and I made this website for my AP Computer Science Principles class. :)
 
 # social links
 insta_username: lara.ep
@@ -10,4 +8,4 @@ snap_username: lpetrunis
 github_username: lpetrunis
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+theme: jekyll-theme-cayman
