@@ -6,7 +6,9 @@ theme: minima
 ![image](https://user-images.githubusercontent.com/84469307/121784512-3cbae380-cb82-11eb-8422-a4b02d1dcac0.png)
 
 Instagram username: lara.ep
+
 Snapchat username: lpetrunis
+
 Github username: lpetrunis
 
 My accomplishments:
