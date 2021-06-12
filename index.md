@@ -1,5 +1,5 @@
 ---
-title: "Lara Petrunis' Github Website"
+title: "Lara-Petrunis-Github-Website"
 theme: minima
 ---
 
